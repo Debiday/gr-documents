@@ -1,0 +1,1 @@
+A private folder to store drafts and resources made to support the Spark-Dgraph Connector 😊 
