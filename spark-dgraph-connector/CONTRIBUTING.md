@@ -147,9 +147,8 @@ Please open an [issue](https://github.com/G-Research/spark-dgraph-connector/issu
 | `duplicate` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/duplicate) | This issue or pull request already exists |
 | `enhancement` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/enhancement) | New feature or request |
 | `github_actions` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/github_actions) | Pull requests that update Github_actions code |
-| `good first issue` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/good%20first%20issue) | 
+| `good first issue` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/good%20first%20issue) | Good for newcomers |
 | `help-wanted` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/help%20wanted) | Extra attention is needed |
-Good for newcomers |
 | `invalid` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/invalid) | This doesn't seem right |
 | `java` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/java) | Pull requests that update Java code |
 | `python` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/python) | Pull requests that update Python code |
