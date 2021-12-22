@@ -42,7 +42,7 @@ We plan to document all significant decisions regarding project maintenance, sup
 
 This section guides you through submitting a bug report for SDC. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:.
 
-When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report). Fill out [the required template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md), the information it asks for helps us resolve issues faster.
+When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report). Fill out [the required template](#templates), the information it asks for helps us resolve issues faster.
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
@@ -52,7 +52,7 @@ Bugs and issues are tracked as [GitHub issues](https://github.com/G-Research/spa
 
 1. Determine what type of bug it is &mdash; is it an ✨*enhancement*✨, is it related to 📑*documentation*📑 or is it just a 🐞*bug*🐞 &mdash; and **label** it.
 
-2. Provide details by explaining the problem and include additional details to help maintainers reproduce the problem. You can use the suggested [template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md).
+2. Provide details by explaining the problem and include additional details to help maintainers reproduce the problem. You can use the suggested [template](#ISSUE.md).
 
 
 * **Use a clear and descriptive title** for the issue to identify the problem.
@@ -97,6 +97,64 @@ The process described here has several goals:
 - Engage the community in working toward the best possible product
 - Enable a sustainable system for SDC's maintainers to review contributions
 
-* After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing <details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
+Please follow these steps to have your contribution considered by the maintainers:
+
+1. Follow all instructions in [the template](#templates)
+2. Follow the [styleguides](#styleguide)
+3. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing <details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
 
 While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be approved.
+
+## Templates
+
+1. Copy the correct template for your contribution
+  - 🐛 Are you fixing a bug? Copy this [template](#BUGS.md).
+  - 📈 Are you improving performance? Copy this [template](#PERFORMANCE.md).
+  - 📝 Are you updating documentation? Copy this [template](#DOCUMENTATION.md).
+  - 💻 Are you changing functionality? Copy this [template](#FUNCTIONALITY.md).
+2. Fill in all sections of the template
+3. Add it in the description of your pull request! 
+
+
+## Styleguide
+
+### Git Commit Messages
+
+* Use the present tense ("Add feature" not "Added feature")
+* Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
+* Limit the first line to 72 characters or less
+* Reference issues and pull requests liberally after the first line
+* [Label](#Type of Issues) your issue if possible
+
+
+## Additional Notes
+
+### Issue and Pull Request Labels
+
+This section lists the labels we use to help us track and manage issues and pull requests. 
+
+[GitHub search](https://help.github.com/articles/searching-issues/) makes it easy to use labels for finding groups of issues or pull requests you're interested in. The labels are loosely grouped by their purpose, but it's not required that every issue has a label from every group or that an issue can't have more than one label from the same group.
+
+Please open an [issue](https://github.com/G-Research/spark-dgraph-connector/issues) if you have suggestions for new labels.
+
+#### Type of Issues
+
+| Label name | :mag_right: | Description |
+| --- | --- | --- |
+| `bug` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/bug] | Something isn't working |
+| `dependencies` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/dependencies] | Upgrading or fixing dependencies |
+| `documentation` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/documentation] | Improvements or additions to documentation |
+| `duplicate` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/duplicate] | This issue or pull request already exists |
+| `enhancement` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/enhancement] | New feature or request |
+| `github_actions` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/github_actions] | Pull requests that update Github_actions code |
+| `good first issue` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/good%20first%20issue] | 
+| `help-wanted` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/help%20wanted] | Extra attention is needed |
+Good for newcomers |
+| `invalid` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/invalid] | This doesn't seem right |
+| `java` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/java] | Pull requests that update Java code |
+| `python` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/python] | Pull requests that update Python code |
+| `question` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/question] | Further information is requested |
+| `use_case` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/use_case] | A specific use case or testimonial |
+| `wontfix` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/wontfix] | This will not be worked on
+ for now |
+
