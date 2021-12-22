@@ -24,7 +24,7 @@ Note that these are guidelines, not rules. Use your best judgment, and feel free
 
 This project and everyone participating in it is governed by the [SDC Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to <conduct.sparkdc@gr-oss.io>.
 
-## I don't want to read this whole thing I just have a question!!!
+## I don't want to read this whole thing I just have a question!
 
 > **Note:** Please don't file an issue to ask a question.  You'll get faster results by using [Github Discussions](https://github.com/G-Research/spark-dgraph-connector/discussions), the primary SDC discussion forum.
 
@@ -52,7 +52,7 @@ Bugs and issues are tracked as [GitHub issues](https://github.com/G-Research/spa
 
 1. Determine what type of bug it is &mdash; is it an ✨*enhancement*✨, is it related to 📑*documentation*📑 or is it just a 🐞*bug*🐞 &mdash; and **label** it.
 
-2. Provide details by explaining the problem and include additional details to help maintainers reproduce the problem. You can use the suggested [template](#ISSUE.md).
+2. Provide details by explaining the problem and include additional details to help maintainers reproduce the problem. You can use the suggested [template](https://github.com/Debiday/gr-documents/blob/main/spark-dgraph-connector/ISSUE.md).
 
 
 * **Use a clear and descriptive title** for the issue to identify the problem.
@@ -108,10 +108,10 @@ While the prerequisites above must be satisfied prior to having your pull reques
 ## Templates
 
 1. Copy the correct template for your contribution
-  - 🐛 Are you fixing a bug? Copy this [template](#BUGS.md).
-  - 📈 Are you improving performance? Copy this [template](#PERFORMANCE.md).
-  - 📝 Are you updating documentation? Copy this [template](#DOCUMENTATION.md).
-  - 💻 Are you changing functionality? Copy this [template](#FUNCTIONALITY.md).
+  - 🐛 Are you fixing a bug? Copy this [template](https://github.com/Debiday/gr-documents/blob/main/spark-dgraph-connector/BUGS.md).
+  - 📈 Are you improving performance? Copy this [template](https://github.com/Debiday/gr-documents/blob/main/spark-dgraph-connector/PERFORMANCE.md).
+  - 📝 Are you updating documentation? Copy this [template](https://github.com/Debiday/gr-documents/blob/main/spark-dgraph-connector/DOCUMENTATION.md).
+  - 💻 Are you changing functionality? Copy this [template](https://github.com/Debiday/gr-documents/blob/main/spark-dgraph-connector/FUNCTIONALITY.md).
 2. Fill in all sections of the template
 3. Add it in the description of your pull request! 
 
@@ -141,20 +141,19 @@ Please open an [issue](https://github.com/G-Research/spark-dgraph-connector/issu
 
 | Label name | :mag_right: | Description |
 | --- | --- | --- |
-| `bug` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/bug] | Something isn't working |
-| `dependencies` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/dependencies] | Upgrading or fixing dependencies |
-| `documentation` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/documentation] | Improvements or additions to documentation |
-| `duplicate` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/duplicate] | This issue or pull request already exists |
-| `enhancement` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/enhancement] | New feature or request |
-| `github_actions` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/github_actions] | Pull requests that update Github_actions code |
-| `good first issue` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/good%20first%20issue] | 
-| `help-wanted` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/help%20wanted] | Extra attention is needed |
+| `bug` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/bug) | Something isn't working |
+| `dependencies` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/dependencies) | Upgrading or fixing dependencies |
+| `documentation` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/documentation) | Improvements or additions to documentation |
+| `duplicate` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/duplicate) | This issue or pull request already exists |
+| `enhancement` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/enhancement) | New feature or request |
+| `github_actions` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/github_actions) | Pull requests that update Github_actions code |
+| `good first issue` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/good%20first%20issue) | 
+| `help-wanted` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/help%20wanted) | Extra attention is needed |
 Good for newcomers |
-| `invalid` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/invalid] | This doesn't seem right |
-| `java` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/java] | Pull requests that update Java code |
-| `python` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/python] | Pull requests that update Python code |
-| `question` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/question] | Further information is requested |
-| `use_case` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/use_case] | A specific use case or testimonial |
-| `wontfix` | [search][https://github.com/G-Research/spark-dgraph-connector/labels/wontfix] | This will not be worked on
- for now |
+| `invalid` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/invalid) | This doesn't seem right |
+| `java` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/java) | Pull requests that update Java code |
+| `python` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/python) | Pull requests that update Python code |
+| `question` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/question) | Further information is requested |
+| `use_case` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/use_case) | A specific use case or testimonial |
+| `wontfix` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/wontfix) | This will not be worked on for now |
 
