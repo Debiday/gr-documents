@@ -139,7 +139,7 @@ Please open an [issue](https://github.com/G-Research/spark-dgraph-connector/issu
 
 #### Type of Issues
 
-| Label name | :mag_right: | Description |
+| Label name | Search | Description |
 | --- | --- | --- |
 | `bug` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/bug) | Something isn't working |
 | `dependencies` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/dependencies) | Upgrading or fixing dependencies |
