@@ -25,7 +25,6 @@ Describe the exact performance improvement observed (for example, reduced time t
 
 <!-- What are the possible side-effects or negative impacts of the code change? -->
 
-
 ### Applicable Issues
 
 <!-- Enter any applicable Issues here -->

@@ -18,7 +18,7 @@ Note that these are guidelines, not rules. Use your best judgment, and feel free
 [How Can I Contribute?](#how-can-i-contribute)
   * [Reporting Bugs](#reporting-bugs)
   * [Suggesting Enhancements](#suggesting-enhancements)
-  * [Pull Requests](#pull-requests)
+  * [Making Pull Requests](#making-pull-requests)
 
 ## Code of Conduct
 
@@ -76,21 +76,21 @@ Bugs and issues are tracked as [GitHub issues](https://github.com/G-Research/spa
 
 This section guides you through submitting an enhancement suggestion for SDC, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion :pencil: and find related suggestions :mag_right:.
 
-Before creating enhancement suggestions, please check out the enhancements listed in [issues](https://github.com/G-Research/spark-dgraph-connector/issues) as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please include as many details as possible.
+Before creating enhancement suggestions, please review the enhancements listed in [issues](https://github.com/G-Research/spark-dgraph-connector/issues) as you might learn that your enhancement has already been suggested. When you are creating an enhancement suggestion, please include as many details as possible.
 
 * **Use a clear and descriptive title** for the issue to identify the suggestion.
 * **Provide a step-by-step description of the suggested enhancement** in as much detail as possible.
 * **Provide examples to demonstrate the enhancement**. Include copy/pasteable snippets which you use in those examples, as [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
 * **Describe the current behavior** and **explain why the suggested behavior would be an improvement**.
-* If applicable, **Include screenshots or animated GIFs** which help you demonstrate the steps or point out the part the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
+* If applicable, **include screenshots or animated GIFs** which help you demonstrate the steps or point out the part the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
 * **Explain why this enhancement would be useful** to most SDC users.
 * If possible, **list some other applications where this enhancement exists.**
 * **Specify the name and version of the OS you're using.**
 
 
-### Pull Requests
+### Making Pull Requests
 
-The process described here has several goals:
+If you would like to offer a contribution, please open a pull request following the instructions below.  The process described here has several goals:
 
 - Maintain the quality of the SDC
 - Fix problems that are important to users
@@ -113,7 +113,7 @@ While the prerequisites above must be satisfied prior to having your pull reques
   - 📝 Are you updating documentation? Copy this [template](https://github.com/Debiday/gr-documents/blob/main/spark-dgraph-connector/DOCUMENTATION.md).
   - 💻 Are you changing functionality? Copy this [template](https://github.com/Debiday/gr-documents/blob/main/spark-dgraph-connector/FUNCTIONALITY.md).
 2. Fill in all sections of the template
-3. Add it in the description of your pull request! 
+3. Insert the completed template in the description of your pull request
 
 
 ## Styleguide
@@ -137,16 +137,16 @@ This section lists the labels we use to help us track and manage issues and pull
 
 Please open an [issue](https://github.com/G-Research/spark-dgraph-connector/issues) if you have suggestions for new labels.
 
-#### Type of Issues
+#### Available Labels
 
-| Label name | Search | Description |
+| Label | Search | Description |
 | --- | --- | --- |
 | `bug` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/bug) | Something isn't working |
 | `dependencies` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/dependencies) | Upgrading or fixing dependencies |
 | `documentation` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/documentation) | Improvements or additions to documentation |
 | `duplicate` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/duplicate) | This issue or pull request already exists |
 | `enhancement` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/enhancement) | New feature or request |
-| `github_actions` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/github_actions) | Pull requests that update Github_actions code |
+| `github_actions` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/github_actions) | Pull requests that update Github actions code |
 | `good first issue` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/good%20first%20issue) | Good for newcomers |
 | `help-wanted` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/help%20wanted) | Extra attention is needed |
 | `invalid` | [🔎](https://github.com/G-Research/spark-dgraph-connector/labels/invalid) | This doesn't seem right |

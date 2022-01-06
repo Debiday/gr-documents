@@ -31,7 +31,6 @@ Describe what your code will be doing here.
 
 <!-- What are the possible side-effects or negative impacts of the code change? -->
 
-
 ### Release Notes
 
 <!--
