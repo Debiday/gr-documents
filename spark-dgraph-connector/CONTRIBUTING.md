@@ -2,7 +2,7 @@
 
 Hello and thank you for taking the time to contribute! 👋 🎉
 
-The following is a set of guidelines for contributing to the [Spark Dgraph Connector](https://github.com/G-Research/spark-dgraph-connector) (SDC) on GitHub. While this open-source project is currently maintained by G-Research, there aren't enough maintainers to go around and your contribution will help us build better for all!
+The following is a set of guidelines for contributing to the [Spark Dgraph Connector](https://github.com/G-Research/spark-dgraph-connector) (SDC) on GitHub. While this open-source project is currently maintained by G-Research, there aren't enough core contributors to go around and your contribution will help us build better for all!
 
 Note that these are guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
@@ -40,7 +40,7 @@ We plan to document all significant decisions regarding project maintenance, sup
 
 ### Reporting Bugs
 
-This section guides you through submitting a bug report for SDC. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:.
+This section guides you through submitting a bug report for SDC. Following these guidelines helps core contributors and the community understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:.
 
 When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report). Fill out [the required template](#templates), the information it asks for helps us resolve issues faster.
 
@@ -52,7 +52,7 @@ Bugs and issues are tracked as [GitHub issues](https://github.com/G-Research/spa
 
 1. Determine what type of bug it is &mdash; is it an ✨*enhancement*✨, is it related to 📑*documentation*📑 or is it just a 🐞*bug*🐞 &mdash; and **label** it.
 
-2. Provide details by explaining the problem and include additional details to help maintainers reproduce the problem. You can use the suggested [template](https://github.com/Debiday/gr-documents/blob/main/spark-dgraph-connector/ISSUE.md).
+2. Provide details by explaining the problem and include additional details to help core contributors reproduce the problem. You can use the suggested [template](https://github.com/Debiday/gr-documents/blob/main/spark-dgraph-connector/ISSUE.md).
 
 
 * **Use a clear and descriptive title** for the issue to identify the problem.
@@ -74,7 +74,7 @@ Bugs and issues are tracked as [GitHub issues](https://github.com/G-Research/spa
 
 ### Suggesting Enhancements
 
-This section guides you through submitting an enhancement suggestion for SDC, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion :pencil: and find related suggestions :mag_right:.
+This section guides you through submitting an enhancement suggestion for SDC, including completely new features and minor improvements to existing functionality. Following these guidelines helps core contributors and the community understand your suggestion :pencil: and find related suggestions :mag_right:.
 
 Before creating enhancement suggestions, please review the enhancements listed in [issues](https://github.com/G-Research/spark-dgraph-connector/issues) as you might learn that your enhancement has already been suggested. When you are creating an enhancement suggestion, please include as many details as possible.
 
@@ -95,13 +95,13 @@ If you would like to offer a contribution, please open a pull request following 
 - Maintain the quality of the SDC
 - Fix problems that are important to users
 - Engage the community in working toward the best possible product
-- Enable a sustainable system for SDC's maintainers to review contributions
+- Enable a sustainable system for SDC's core contributors to review contributions
 
-Please follow these steps to have your contribution considered by the maintainers:
+Please follow these steps to have your contribution considered by the core contributors:
 
 1. Follow all instructions in [the template](#templates)
 2. Follow the [styleguides](#styleguide)
-3. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing <details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
+3. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing <details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A core contributor will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
 
 While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be approved.
 
