@@ -1,9 +1,8 @@
 ### Requirements for Contributing a Performance Improvement
 
 * Fill out the template below.
-* The pull request must only affect performance of existing functionality. To contribute other changes, you must use a different template. You can see all templates at <INSERT-LINK>.
-* After you create the pull request, all status checks must be pass before a maintainer reviews your contribution.
-<!-- TODO: Check and fix link -->
+* The pull request must only affect performance of existing functionality. To contribute other changes, you must use a different template. You can see all templates [here](https://github.com/G-Research/spark-dgraph-connector/tree/spark-3.1/docs/templates).
+* After you create the pull request, all status checks must be pass before a core contributor reviews your contribution.
 
 ### Description of the Change
 

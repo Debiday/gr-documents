@@ -1,8 +1,8 @@
 ### Requirements for Adding, Changing, or Removing a Feature
 
 * Fill out the template below. 
-* The pull request must contribute a change that has been endorsed by the maintainer team. See details in the template below.
-* After you create the pull request, all status checks must be pass before a maintainer reviews your contribution.
+* The pull request must contribute a change that has been endorsed by a core contributor. See details in the template below.
+* After you create the pull request, all status checks must be pass before a core contributor reviews your contribution.
 
 ### Issue Endorsed by SDC's Maintainers
 
@@ -12,8 +12,8 @@ Link to the issue that your change relates to.
 
 To contribute an enhancement that isn't covered by one of the items above, please follow our guide for suggesting an enhancement: <INSERT-LINK>
 
-To contribute other changes, you must use a different template. You can see all templates at <INSERT-LINK>.
-#TODO: Update link after adding to repo
+To contribute other changes, you must use a different template. You can see all templates [here](https://github.com/G-Research/spark-dgraph-connector/tree/spark-3.1/docs/templates).
+
 
 -->
 

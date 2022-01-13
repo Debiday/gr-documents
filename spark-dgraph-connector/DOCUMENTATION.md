@@ -1,8 +1,7 @@
 ### Requirements for Contributing Documentation
 
 * Fill out the template below.
-* The pull request must only contribute documentation (for example, markdown files). To contribute other changes, you must use a different template. You can see all templates at <INSERT-LINK>.
-<!-- TODO: Check and fix link -->
+* The pull request must only contribute documentation (for example, markdown files). To contribute other changes, you must use a different template. You can see all templates [here](https://github.com/G-Research/spark-dgraph-connector/tree/spark-3.1/docs/templates).
 
 ### Description of the Change
 
